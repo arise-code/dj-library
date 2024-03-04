@@ -1,25 +1,13 @@
 <div align="center"> 
 
-# Electron Vue Template
-  
-<img width="794" alt="image" src="https://user-images.githubusercontent.com/32544586/222748627-ee10c9a6-70d2-4e21-b23f-001dd8ec7238.png">
+# DJ Library Tool
 
-A simple starter template for a **Vue3** + **Electron** TypeScript based application, including **ViteJS** and **Electron Builder**.
+This is supposed to become a tool to support DJing with **Rekordbox** that allows you to import your library and save transitions that work well. After building your library of transitions you can pick a track and get suggestions for tracks to transition to or double drop them. 
 </div>
 
 ## About
 
-This template utilizes [ViteJS](https://vitejs.dev) for building and serving your (Vue powered) front-end process, it provides Hot Reloads (HMR) to make development fast and easy ⚡ 
-
-Building the Electron (main) process is done with [Electron Builder](https://www.electron.build/), which makes your application easily distributable and supports cross-platform compilation 😎
-
-## Getting started
-
-Click the green **Use this template** button on top of the repository, and clone your own newly created repository.
-
-**Or..**
-
-Clone this repository: `git clone git@github.com:Deluze/electron-vue-template.git`
+This project utilizes a Vue 3 application which is accessed via Electron.
 
 
 ### Install dependencies ⏬
